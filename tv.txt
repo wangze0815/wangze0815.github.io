@@ -112,9 +112,9 @@ http://192.168.2.2:4200/udp/239.21.1.58:5002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" tvg-id="1429" tvg-name="山东农科" group-title="山东",山东农科
 http://192.168.2.2:4200/udp/239.21.1.59:5002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_gonggong.png" tvg-id="1430" tvg-name="山东公共" group-title="山东",山东公共
-http://192.168.2.2:4200/udp/239.21.1.208:5002
+http://192.168.2.2:4200/udp/239.21.1.54:5002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" tvg-id="1431" tvg-name="山东少儿" group-title="山东",山东少儿
-http://192.168.2.2:4200/udp/239.21.1.60:5002
+http://192.168.2.2:4200/udp/239.21.1.208:5002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" tvg-id="1432" tvg-name="山东影视" group-title="山东",山东影视
 http://192.168.2.2:4200/udp/239.21.1.57:5002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" tvg-id="1433" tvg-name="山东综艺" group-title="山东",山东综艺
