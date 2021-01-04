@@ -99,8 +99,6 @@ http://192.168.2.2:4200/udp/239.21.1.40:5002
 http://192.168.2.2:4200/udp/239.21.1.43:5002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" tvg-id="61" tvg-name="兵团卫视" group-title="卫视",兵团卫视
 http://192.168.2.2:4200/udp/239.21.1.234:5002
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" tvg-id="63" tvg-name="延边卫视" group-title="卫视",延边卫视
-http://192.168.2.2:4200/udp/239.21.1.235:5002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-id="68" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://192.168.2.2:4200/udp/239.21.2.6:5002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-id="71" tvg-name="西藏卫视" group-title="卫视",西藏卫视
