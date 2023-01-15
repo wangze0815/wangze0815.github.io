@@ -101,3 +101,11 @@ http://150.138.8.143:80/00/SNM/CHANNEL00000075/index.m3u8
 http://150.138.8.143:80/00/SNM/CHANNEL00000045/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://150.138.8.143:80/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="地方",山东齐鲁
+http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",山东新闻
+http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="地方",山东体育
+http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="地方",山东少儿
+http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
